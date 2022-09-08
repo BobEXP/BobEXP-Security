@@ -7,7 +7,6 @@
 
 <h3 align="center">
 	 Advance Windows Cyber Security Suite
-	<br>
 </h3>
 
 <h1 align="center">

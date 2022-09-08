@@ -12,7 +12,7 @@
 
 <h1 align="center">
 	<br>
-	<img src="https://i.ibb.co/y5g9dzF/Bob-EXP-Pre-Release.png">
+	<img src="https://i.ibb.co/4KrXtwM/Bob-EXP-Pre-Release.png">
 	<br>
 </h1>
 

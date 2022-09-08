@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img src="https://i.ibb.co/fY3ZXXy/BobEXP.png" alt="BobEXP-Security">
+	<img src="https://i.ibb.co/vc8W7Vc/BobEXP.png" alt="BobEXP-Security">
 	<br>
 	BobEXP Security
 </h1>

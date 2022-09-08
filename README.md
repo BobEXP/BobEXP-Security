@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img src="https://ibb.co/jvCq88Q" alt="BobEXP-Security">
+	<img src="https://i.ibb.co/fY3ZXXy/BobEXP.png" alt="BobEXP-Security">
 	<br>
 	BobEXP Security
 </h1>
@@ -12,7 +12,7 @@
 
 <h1 align="center">
 	<br>
-	<img src="https://ibb.co/Y8fCP5B">
+	<img src="https://i.ibb.co/y5g9dzF/Bob-EXP-Pre-Release.png">
 	<br>
 </h1>
 
